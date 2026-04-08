@@ -128,7 +128,7 @@ conda install -c conda-forge llama-cpp-python
 ### Clone this repository
 
 ```bash
-git clone https://github.com/g023/triattention-gguf.git
+git clone https://github.com/g023/triattention_gguf
 cd triattention-gguf
 ```
 
